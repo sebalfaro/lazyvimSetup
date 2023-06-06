@@ -11,8 +11,8 @@ return {
       jsonls = {},
     },
   },
-  "L3MON4D3/LuaSnip",
-  "rafamadriz/friendly-snippets",
+  -- "L3MON4D3/LuaSnip",
+  -- "rafamadriz/friendly-snippets",
   {
     "nvim-treesitter/nvim-treesitter",
     opts = {

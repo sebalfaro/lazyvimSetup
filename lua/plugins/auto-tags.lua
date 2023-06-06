@@ -1,10 +1,12 @@
 -- Auto-tag
 return {
+  -- Use treesitter to autoclose and autorename html tag
   {
     "windwp/nvim-ts-autotag",
     config = true,
   },
-  {
-    "AndrewRadev/tagalong.vim",
-  },
+  -- automatically rename closing HTML/XML tags
+  -- {
+  --   "AndrewRadev/tagalong.vim",
+  -- },
 }

@@ -12,6 +12,7 @@ return {
   {
     "nvim-lua/plenary.nvim",
   },
+  -- Find and Replace
   {
     "nvim-pack/nvim-spectre",
     dependencies = {
