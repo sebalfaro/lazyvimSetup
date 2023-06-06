@@ -8,6 +8,8 @@ return {
         -- list of languages you want to disable the plugin for
         disable = { "jsx", "cpp" },
         -- Which query to use for finding delimiters
+
+        -- An alternative setup
         -- query = {
         --   "rainbow-parens",
         --   html = "rainbow-tags",
