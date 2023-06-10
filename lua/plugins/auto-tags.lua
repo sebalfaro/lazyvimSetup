@@ -6,7 +6,7 @@ return {
     config = true,
   },
   -- automatically rename closing HTML/XML tags
-  -- {
-  --   "AndrewRadev/tagalong.vim",
-  -- },
+  {
+    "AndrewRadev/tagalong.vim",
+  },
 }
